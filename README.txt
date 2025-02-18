@@ -1,5 +1,6 @@
 This BOT CAN MAKE MULTIPLE INSTAGRAM ACCOUNT 
 
+if it is not work try to run the valid.py
 
 
 /FOLLOW THE STEPS CAREFULLY
